@@ -1,5 +1,5 @@
 // ====== CONFIG — change these to customize ======
-const BRAND = "LUMA";          // your site name (used in the intro + header)
+const BRAND = "NITFLEX";          // your site name (used in the intro + header)
 const INTRO_LENGTH_MS = 3600;  // how long the intro plays before the page shows
 
 const ROWS = [
